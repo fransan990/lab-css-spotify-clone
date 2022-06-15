@@ -6,10 +6,13 @@
 
 ## Introduction
 
+<div align="center">
+
 Everybody likes music, right? Odds are, if you do, you have heard of **Spotify**.
 
 In this lab, we will be building a simplified version of the Spotify landing page:
 
+  </div>
 ![Spotify image](https://i.imgur.com/xVD0bm6.jpg)
 
 <br>
